@@ -1,0 +1,14 @@
+name: Test
+main: elcreeperhd.test.ejemplo.ClasePrincipal
+version: '1.0-32424324'
+description: Plugin de ejemplo
+commands:
+    test:
+      description: Comando pfafaf
+      usage: /test
+      aliases: [creeper]
+
+permissions:
+  ejemplo:
+    description: Ejemplo
+    default: false
